@@ -1,5 +1,8 @@
 # dbpedia-GSoC2021
-Google Summer of Code 2021 DBpedia Healthcare Platform. Project link: https://github.com/dbpedia/healthcare-platform
+Google Summer of Code 2021 DBpedia Healthcare Platform. Project link: [https://github.com/dbpedia/healthcare-platform](https://github.com/dbpedia/healthcare-platform)
+
+## Proposal
+[Proposal for Healthcare Platform](https://docs.google.com/document/d/1kGc_-2c9FV_pjw5Y0rD3VW8jecGz4Q5MlsqZKiIYpZ8/edit#)
 
 ## DBpedia Resources
 - [DBpedia Web](https://www.dbpedia.org/)
