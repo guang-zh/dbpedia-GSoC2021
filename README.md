@@ -37,3 +37,11 @@ June 15th 2021:
 - [RDF primer](https://www.w3.org/TR/rdf11-primer/)
 - [QA platform example](https://www.qanswer.eu/#try)
 - [Spiral Model](https://en.wikipedia.org/wiki/Spiral_model)
+
+Updated goals:
+- Community Release Extension for COVID-19 HEALTHCARE
+- Deploy a (DBpedia interlinked) healthcare dataset on the DBpedia Databus
+If times allow: 
+- Create a Dashboard
+- Healthcare QA using this dataset
+- demo QA using SPARQL
