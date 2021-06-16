@@ -22,3 +22,11 @@ Google Summer of Code 2021 DBpedia Healthcare Platform. Project link: [https://g
 - Postgresql (database for CORD-19 dataset)
 - SPARQL and Owl (query searching)
 - Docker and Docker-compose (deployment)
+
+## Meetings and Resources
+June 15th 2021:
+- [Sparql tool: TARQL](https://tarql.github.io/)
+- [RDF turtle](https://www.w3.org/TR/turtle/)
+- [Paper for Wikipedia and Wikidata](https://svn.aksw.org/papers/2020/qurator_gfs/public.pdf)
+- [CORD-19 RDF dataset release](https://www.rd-alliance.org/group/rda-covid19/post/first-release-cord-19-named-entities-kg-rdf-dataset-named-entities-identified)
+- [CORD-19 Dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251955/)
