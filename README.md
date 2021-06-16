@@ -41,6 +41,8 @@ June 15th 2021:
 Updated goals:
 - Community Release Extension for COVID-19 HEALTHCARE
 - Deploy a (DBpedia interlinked) healthcare dataset on the DBpedia Databus
+
+
 If times allow: 
 - Create a Dashboard
 - Healthcare QA using this dataset
