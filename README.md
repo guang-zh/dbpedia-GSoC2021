@@ -47,3 +47,17 @@ If times allow:
 - Create a Dashboard
 - Healthcare QA using this dataset
 - demo QA using SPARQL
+
+
+June 23rd 2021 meeting
+- [dbpedia ontology Disease](https://dbpedia.org/ontology/Disease)
+- [JSON2RDF Maven Repo](https://mvnrepository.com/artifact/com.github.spice-h2020/json2rdf)
+- [CORD-19 RDF Covid-on-the-web](https://github.com/Wimmics/CovidOnTheWeb)
+- [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core)
+- [DBLP](https://dblp.org/)
+
+Tasks to do:
+- Search for RDF and CSV datasets on COVID and Healthcare
+- Datahubs: [zenodo](https://zenodo.org/) and [datahub](https://datahub.io/)
+- Update mappings for current COVID and Healthcare resources (i.e. COVID and COVID-Symptoms)
+- Learn different dbpedia types (i.e. dbo, dbp, dbr, dbo, dbt, dbc)
