@@ -66,3 +66,5 @@ Tasks to do:
 Potential Datasets:
 - COVID cases and deaths worldwide: [Datahub Novel Coronavirus 2019 COVID-19](https://datahub.io/core/covid-19#data)
 - Pharmaceutical Drug Spending: [Datahub Pharmaceutical Drug Spending](https://datahub.io/core/pharmaceutical-drug-spending#pandas)
+- World Vaccination Progress: [Kaggle COVID-19 World Vaccination Progress](https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
+- World Vaccine Adverse Reactions: [Kaggle COVID-19 World Vaccine Adverse Reactions](https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions)
