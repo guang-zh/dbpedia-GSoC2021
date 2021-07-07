@@ -72,6 +72,7 @@ Tasks to do:
 - Covid-19 Vaccine by Country: [Kaggle Latest Worldwide Covid19 Vaccine Data](https://www.kaggle.com/anandhuh/latest-worldwide-vaccine-data)
 - Vaccine Preventable by Disease name: [Kaggle Vaccine Preventable Diseases](https://www.kaggle.com/rishidamarla/vaccine-preventable-diseases)
 - [Kaggle World Vaccination Progress](https://www.kaggle.com/kingabzpro/world-vaccine-progress)
+- [Kaggle World Health Statistics 2020](https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete)
 - [COVID Mapping](https://coronavirus.jhu.edu/map.html)
 - [COVID Worldometer](https://www.worldometers.info/coronavirus/)
 - [COVID 19 dataset by date](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv)
