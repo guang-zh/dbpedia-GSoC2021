@@ -70,6 +70,7 @@ Tasks to do:
 - World Vaccine Adverse Reactions: [Kaggle COVID-19 World Vaccine Adverse Reactions](https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions)
 - Diabetes: [Datahub Diabetes](https://datahub.io/machine-learning/diabetes#r)
 - Covid-19 Vaccine by Country: [Kaggle Latest Worldwide Covid19 Vaccine Data](https://www.kaggle.com/anandhuh/latest-worldwide-vaccine-data)
+- Vaccine Preventable by Disease name: [Vaccine Preventable Diseases](https://www.kaggle.com/rishidamarla/vaccine-preventable-diseases)
 - [COVID Mapping](https://coronavirus.jhu.edu/map.html)
 - [COVID Worldometer](https://www.worldometers.info/coronavirus/)
 - [COVID 19 dataset by date](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv)
