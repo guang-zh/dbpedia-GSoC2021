@@ -68,7 +68,7 @@ Tasks to do:
 - Pharmaceutical Drug Spending: [Datahub Pharmaceutical Drug Spending](https://datahub.io/core/pharmaceutical-drug-spending#pandas)
 - World Vaccination Progress: [Kaggle COVID-19 World Vaccination Progress](https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
 - World Vaccine Adverse Reactions: [Kaggle COVID-19 World Vaccine Adverse Reactions](https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions)
-- - [COVID Mapping](https://coronavirus.jhu.edu/map.html)
+- [COVID Mapping](https://coronavirus.jhu.edu/map.html)
 - [COVID Worldometer](https://www.worldometers.info/coronavirus/)
 - [COVID 19 dataset by date](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv)
 - [DBpedia Live](https://www.dbpedia.org/resources/live/)
