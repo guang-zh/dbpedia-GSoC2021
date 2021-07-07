@@ -61,3 +61,8 @@ Tasks to do:
 - Datahubs: [zenodo](https://zenodo.org/) and [datahub](https://datahub.io/)
 - Update mappings for current COVID and Healthcare resources (i.e. COVID and COVID-Symptoms)
 - Learn different dbpedia types (i.e. dbo, dbp, dbr, dbo, dbt, dbc)
+
+
+Potential Datasets:
+- COVID cases and deaths worldwide: [Datahub Novel Coronavirus 2019 COVID-19](https://datahub.io/core/covid-19#data)
+- Pharmaceutical Drug Spending: [Datahub Pharmaceutical Drug Spending](https://datahub.io/core/pharmaceutical-drug-spending#pandas)
