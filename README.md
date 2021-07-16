@@ -87,3 +87,8 @@ Tasks to do:
 - [COVID Worldometer](https://www.worldometers.info/coronavirus/)
 - [COVID 19 dataset by date](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv)
 - [DBpedia Live](https://www.dbpedia.org/resources/live/)
+
+Tasks to do:
+- Describe statistics for the fields of the CSV files (e.g. Confirmed Cases and Deaths by Country, Vaccines and Total Vaccine Doses by Country)
+- Check existing mapping in healthcare, COVID, and create new mappings if not existed or linked
+- Continue mapping for the CSV files using Tarql
