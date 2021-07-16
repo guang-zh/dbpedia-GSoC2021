@@ -5,7 +5,7 @@ Google Summer of Code 2021 DBpedia Healthcare Platform. Project link: [https://g
 [Proposal for Healthcare Platform](https://docs.google.com/document/d/1kGc_-2c9FV_pjw5Y0rD3VW8jecGz4Q5MlsqZKiIYpZ8/edit#)
 
 ## COVID Mapping
-https://drive.google.com/file/d/148L6tIGYblEgEZtLZ-LThCvaYY_jla29/view?usp=sharing
+[COVID-Mapping](https://drive.google.com/file/d/148L6tIGYblEgEZtLZ-LThCvaYY_jla29/view?usp=sharing)
 
 ## DBpedia Resources
 - [DBpedia Web](https://www.dbpedia.org/)
