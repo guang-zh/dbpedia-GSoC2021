@@ -95,7 +95,7 @@ Tasks to do:
 - Continue mapping for the CSV files using Tarql
 
 Meetings on July 22nd 2021.
-Discussed Data set statistics, DBpedia mappings and ontology
+Discussed Data set statistics, DBpedia mappings and ontology. 
 Tasks to do:
 - Create Mappings for the [Kaggle COVID-19 World Vaccination Progress](https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
 - Check existing mapping in healthcare, COVID, and create new mappings if not existed or linked
