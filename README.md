@@ -100,3 +100,12 @@ Tasks to do:
 - Create Mappings for the [Kaggle COVID-19 World Vaccination Progress](https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
 - Check existing mapping in healthcare, COVID, and create new mappings if not existed or linked
 - Continue mapping for the CSV files using Tarql
+
+Meetings on July 26th 2021.
+Discussed Tarql Mapping, Databus upload.
+Tasks to do:
+- Convert Git repo on DBpedia (Heath platform) to Git LFS
+- Learn lbzip2 compression
+- Upload the compressed data set with Git LFS to the DBpedia repo
+- Learn DBpedia databus
+- Upload the World Vaccination Progress with Databus
