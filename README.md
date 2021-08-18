@@ -109,3 +109,38 @@ Tasks to do:
 - Upload the compressed data set with Git LFS to the DBpedia repo
 - Learn DBpedia databus
 - Upload the World Vaccination Progress with Databus
+
+Meeting on August 2nd 2021.
+Set up ssh dbpedia server and SSH key together; set up webid for the Databus upload
+Tasks to do:
+- Try again for the DBpedia databus upload
+- Prepare data sets for healthcare
+- Try again maven databus
+
+Meeting on August 5th 2021.
+Discussed Tarql Mappings
+Tasks to do:
+- Use Kaggle API for downloading data sets
+- Continue mapping
+
+Meeting on August 9th 2021.
+Discussed Kaggle API and DBpedia databus upload
+Tasks to do:
+- Shell scripting and web scrapping for checking kaggle versions
+- Download data set only if newer version is available
+- Fix Tarql Mapping
+- Check again DBpedia web upload for databus
+
+Meeting on August 12th 2021.
+Discussed missing webid files and fixed the issue by taking backup copy; Discussed cronjob for auto-updating
+Tasks to do:
+- continue version checking for kaggle data sets
+- re-organize data sets and databus-upload (e.g. raw for csv files only, namings of folders and data sets)
+- check dbpedia mappings contributions
+
+Meeting on August 16th 2021.
+Discussed DBpedia databus progress; schedules and plans for GSoC2021 submission
+Tasks to do:
+- Tarql mapping for data sets
+- Fix mapping issue
+- Continue version checking for kaggle data sets
