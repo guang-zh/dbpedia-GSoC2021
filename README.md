@@ -7,6 +7,8 @@ Google Summer of Code 2021 DBpedia Healthcare Platform project by Guang Zhang. P
 ## Goals
 - Community Release Extension for COVID-19 HEALTHCARE
 - Deploy a (DBpedia interlinked) healthcare dataset on the DBpedia Databus
+- Research COVID19 and healthcare datasets, and create mappings with sparql queries, then upload to DBpedia databus
+- Contribute to the DBpedia mapping ontologies and healthcare field
 
 If times allow: 
 - Create a Dashboard
