@@ -1,10 +1,19 @@
 # dbpedia-GSoC2021
-Google Summer of Code 2021 DBpedia Healthcare Platform. Project link: [https://github.com/dbpedia/healthcare-platform](https://github.com/dbpedia/healthcare-platform)
+Google Summer of Code 2021 DBpedia Healthcare Platform project by Guang Zhang. Project link: [https://github.com/dbpedia/healthcare-platform](https://github.com/dbpedia/healthcare-platform)
 
 ## Proposal
 [Proposal for Healthcare Platform](https://docs.google.com/document/d/1kGc_-2c9FV_pjw5Y0rD3VW8jecGz4Q5MlsqZKiIYpZ8/edit#)
 
-## COVID Mapping
+## Goals
+- Community Release Extension for COVID-19 HEALTHCARE
+- Deploy a (DBpedia interlinked) healthcare dataset on the DBpedia Databus
+
+If times allow: 
+- Create a Dashboard
+- Healthcare QA using this dataset
+- demo QA using SPARQL
+
+## COVID Mapping for Data Sets
 [COVID-Mapping](https://drive.google.com/file/d/148L6tIGYblEgEZtLZ-LThCvaYY_jla29/view?usp=sharing)
 
 ## DBpedia Resources
@@ -19,15 +28,7 @@ Google Summer of Code 2021 DBpedia Healthcare Platform. Project link: [https://g
 - [SPARQL wikidata](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial)
 - [SPARQL w3](https://www.w3.org/TR/sparql11-query/)
 
-
-## Proposed frameworks:
-- Python Django (backend operations)
-- Postgresql (database for CORD-19 dataset)
-- SPARQL and Owl (query searching)
-- Docker and Docker-compose (deployment)
-
-## Meetings and Resources
-June 15th 2021:
+## Resources
 - [Sparql tool: TARQL](https://tarql.github.io/)
 - [RDF turtle](https://www.w3.org/TR/turtle/)
 - [Paper for Wikipedia and Wikidata](https://svn.aksw.org/papers/2020/qurator_gfs/public.pdf)
@@ -41,39 +42,7 @@ June 15th 2021:
 - [QA platform example](https://www.qanswer.eu/#try)
 - [Spiral Model](https://en.wikipedia.org/wiki/Spiral_model)
 
-Updated goals:
-- Community Release Extension for COVID-19 HEALTHCARE
-- Deploy a (DBpedia interlinked) healthcare dataset on the DBpedia Databus
-
-
-If times allow: 
-- Create a Dashboard
-- Healthcare QA using this dataset
-- demo QA using SPARQL
-
-
-June 23rd 2021 meeting
-- [dbpedia ontology Disease](https://dbpedia.org/ontology/Disease)
-- [JSON2RDF Maven Repo](https://mvnrepository.com/artifact/com.github.spice-h2020/json2rdf)
-- [CORD-19 RDF Covid-on-the-web](https://github.com/Wimmics/CovidOnTheWeb)
-- [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core)
-- [DBLP](https://dblp.org/)
-
-Tasks to do:
-- Search for RDF and CSV datasets on COVID and Healthcare
-- Datahubs: [zenodo](https://zenodo.org/) and [datahub](https://datahub.io/)
-- Update mappings for current COVID and Healthcare resources (i.e. COVID and COVID-Symptoms)
-- Learn different dbpedia types (i.e. dbo, dbp, dbr, dbo, dbt, dbc)
-
-July 7th 2021 meeting
-Tasks to do:
-- TARQL mapping from CSV to RDF
-- Existing mappings updates (e.g. pendamicDeaths to pandemicDeaths)
-- Questions/Info relating to Heathcare/COVID (e.g which vaccines are administered in each country?)
-- Search Wikipedia and DBpedia resources in the healthcare field; check mappings
-- Build sparql query for searching healthcare info
-
-## Potential Datasets:
+## Potential Healthcare Datasets:
 - COVID cases and deaths worldwide: [Datahub Novel Coronavirus 2019 COVID-19](https://datahub.io/core/covid-19#data)
 - Pharmaceutical Drug Spending: [Datahub Pharmaceutical Drug Spending](https://datahub.io/core/pharmaceutical-drug-spending#pandas)
 - World Vaccination Progress: [Kaggle COVID-19 World Vaccination Progress](https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
@@ -88,20 +57,51 @@ Tasks to do:
 - [COVID 19 dataset by date](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv)
 - [DBpedia Live](https://www.dbpedia.org/resources/live/)
 
-Meetings on July 13th, July 16th 2021.
+
+## Meetings
+
+June 15h 2021 Meeting.
+Discussed sparql, rdf turtle tools, articles reading.
+Tasks to do:
+- Explore Tarql mapping tools
+- Read articles about wikipedia, wikidata, CORD-19 dataset
+- Get familiar with sparql query
+
+June 23rd 2021 Meeting.
+Discussed DBpedia ontology and json2rdf tools
+- [dbpedia ontology Disease](https://dbpedia.org/ontology/Disease)
+- [JSON2RDF Maven Repo](https://mvnrepository.com/artifact/com.github.spice-h2020/json2rdf)
+- [CORD-19 RDF Covid-on-the-web](https://github.com/Wimmics/CovidOnTheWeb)
+- [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core)
+- [DBLP](https://dblp.org/)
+Tasks to do:
+- Search for RDF and CSV datasets on COVID and Healthcare
+- Datahubs: [zenodo](https://zenodo.org/) and [datahub](https://datahub.io/)
+- Update mappings for current COVID and Healthcare resources (i.e. COVID and COVID-Symptoms)
+- Learn different dbpedia types (i.e. dbo, dbp, dbr, dbo, dbt, dbc)
+
+July 7th 2021 Meeting.
+Tasks to do:
+- TARQL mapping from CSV to RDF
+- Existing mappings updates (e.g. pendamicDeaths to pandemicDeaths)
+- Questions/Info relating to Heathcare/COVID (e.g which vaccines are administered in each country?)
+- Search Wikipedia and DBpedia resources in the healthcare field; check mappings
+- Build sparql query for searching healthcare info
+
+July 13th, July 16th 2021 Meetings.
 Tasks to do:
 - Describe statistics for the fields of the CSV files (e.g. Confirmed Cases and Deaths by Country, Vaccines and Total Vaccine Doses by Country)
 - Check existing mapping in healthcare, COVID, and create new mappings if not existed or linked
 - Continue mapping for the CSV files using Tarql
 
-Meetings on July 22nd 2021.
+July 22nd 2021 Meetings.
 Discussed Data set statistics, DBpedia mappings and ontology. 
 Tasks to do:
 - Create Mappings for the [Kaggle COVID-19 World Vaccination Progress](https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
 - Check existing mapping in healthcare, COVID, and create new mappings if not existed or linked
 - Continue mapping for the CSV files using Tarql
 
-Meetings on July 26th 2021.
+July 26th 2021 Meeting.
 Discussed Tarql Mapping, Databus upload.
 Tasks to do:
 - Convert Git repo on DBpedia (Heath platform) to Git LFS
@@ -110,20 +110,20 @@ Tasks to do:
 - Learn DBpedia databus
 - Upload the World Vaccination Progress with Databus
 
-Meeting on August 2nd 2021.
+August 2nd 2021 Meeting.
 Set up ssh dbpedia server and SSH key together; set up webid for the Databus upload
 Tasks to do:
 - Try again for the DBpedia databus upload
 - Prepare data sets for healthcare
 - Try again maven databus
 
-Meeting on August 5th 2021.
+August 5th 2021 Meeting.
 Discussed Tarql Mappings
 Tasks to do:
 - Use Kaggle API for downloading data sets
 - Continue mapping
 
-Meeting on August 9th 2021.
+August 9th 2021 Meeting.
 Discussed Kaggle API and DBpedia databus upload
 Tasks to do:
 - Shell scripting and web scrapping for checking kaggle versions
@@ -131,21 +131,21 @@ Tasks to do:
 - Fix Tarql Mapping
 - Check again DBpedia web upload for databus
 
-Meeting on August 12th 2021.
+August 12th 2021 Meeting.
 Discussed missing webid files and fixed the issue by taking backup copy; Discussed cronjob for auto-updating
 Tasks to do:
 - continue version checking for kaggle data sets
 - re-organize data sets and databus-upload (e.g. raw for csv files only, namings of folders and data sets)
 - check dbpedia mappings contributions
 
-Meeting on August 16th 2021.
+August 16th 2021 Meeting.
 Discussed DBpedia databus progress; schedules and plans for GSoC2021 submission
 Tasks to do:
 - Tarql mapping for data sets
 - Fix mapping issue
 - Continue version checking for kaggle data sets
 
-Meeting on 18th 2021.
+August 18th 2021 Meeting.
 Discussed databus-upload folder structure, github repo, GSoC2021 submission
 Tasks to do:
 - Re-organize folder structure
