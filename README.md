@@ -144,3 +144,14 @@ Tasks to do:
 - Tarql mapping for data sets
 - Fix mapping issue
 - Continue version checking for kaggle data sets
+
+Meeting on 18th 2021.
+Discussed databus-upload folder structure, github repo, GSoC2021 submission
+Tasks to do:
+- Re-organize folder structure
+- Download each data set again, only csv files, put them into 2021.08.18 folders
+- Run tarql mappings for all again, and put them into folder "input"
+- Rename them based on the example (_tag=default.csv.bz2)
+- Enter empty pom.xml files and Description .md files
+- Github repo re-organize
+
