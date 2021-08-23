@@ -5,10 +5,10 @@ Google Summer of Code 2021 DBpedia Healthcare Platform project by Guang Zhang. P
 [Proposal for Healthcare Platform](https://docs.google.com/document/d/1kGc_-2c9FV_pjw5Y0rD3VW8jecGz4Q5MlsqZKiIYpZ8/edit#)
 
 ## Goals
-- Community Release Extension for COVID-19 HEALTHCARE
-- Deploy a (DBpedia interlinked) healthcare dataset on the DBpedia Databus
 - Research COVID19 and healthcare datasets, and create mappings with sparql queries, then upload to DBpedia databus
 - Contribute to the DBpedia mapping ontologies and healthcare field
+- Deploy a (DBpedia interlinked) healthcare dataset on the DBpedia Databus
+- Community Release Extension for COVID-19 HEALTHCARE
 
 If times allow: 
 - Create a Dashboard
@@ -17,18 +17,6 @@ If times allow:
 
 ## COVID Mapping for Data Sets
 [COVID-Mapping](https://drive.google.com/file/d/148L6tIGYblEgEZtLZ-LThCvaYY_jla29/view?usp=sharing)
-
-## DBpedia Resources
-- [DBpedia Web](https://www.dbpedia.org/)
-- [Github Repo](https://github.com/dbpedia)
-- [Get familiar with DBpedia Sparql databus](https://github.com/dbpedia/virtuoso-sparql-endpoint-quickstart)
-- [GSoC 2020 Dashboard](https://github.com/dbpedia/gsoc-2020-dashboard)
-
-## Healthplatform Resources
-- [CORD-19: The Covid-19 Open Research Dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251955/)
-- [Analyse and compare recency/correctness of Wikidata to recency/correctness of Wikipedia/DBpedia](https://svn.aksw.org/papers/2020/qurator_gfs/public.pdf)
-- [SPARQL wikidata](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial)
-- [SPARQL w3](https://www.w3.org/TR/sparql11-query/)
 
 ## Resources
 - [Sparql tool: TARQL](https://tarql.github.io/)
@@ -43,6 +31,14 @@ If times allow:
 - [RDF primer](https://www.w3.org/TR/rdf11-primer/)
 - [QA platform example](https://www.qanswer.eu/#try)
 - [Spiral Model](https://en.wikipedia.org/wiki/Spiral_model)
+- [DBpedia Web](https://www.dbpedia.org/)
+- [Github Repo](https://github.com/dbpedia)
+- [Get familiar with DBpedia Sparql databus](https://github.com/dbpedia/virtuoso-sparql-endpoint-quickstart)
+- [GSoC 2020 Dashboard](https://github.com/dbpedia/gsoc-2020-dashboard)
+- [CORD-19: The Covid-19 Open Research Dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251955/)
+- [Analyse and compare recency/correctness of Wikidata to recency/correctness of Wikipedia/DBpedia](https://svn.aksw.org/papers/2020/qurator_gfs/public.pdf)
+- [SPARQL wikidata](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial)
+- [SPARQL w3](https://www.w3.org/TR/sparql11-query/)
 
 ## Potential Healthcare Datasets:
 - COVID cases and deaths worldwide: [Datahub Novel Coronavirus 2019 COVID-19](https://datahub.io/core/covid-19#data)
